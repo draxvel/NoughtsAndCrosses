@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>cross.png</file>
+        <file>zero.png</file>
+        <file>OneCell.qml</file>
+    </qresource>
+</RCC>
